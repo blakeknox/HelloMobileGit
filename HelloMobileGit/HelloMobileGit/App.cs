@@ -21,7 +21,7 @@ namespace HelloMobileGit
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin!"
+                            Text = "Welcome to .Net Mobile!"
                         }
                     }
                 }
